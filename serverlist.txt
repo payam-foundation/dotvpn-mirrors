@@ -1,2 +1,1 @@
-# Dot VPN signed server list
-# Replaced by control Publish mirrors.
+# probe write
